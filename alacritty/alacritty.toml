@@ -1,0 +1,11 @@
+
+
+
+[window]
+decorations = "None"
+
+[font]
+size = 11
+
+[general]
+import = ["~/.config/alacritty/rose-pine.toml"]

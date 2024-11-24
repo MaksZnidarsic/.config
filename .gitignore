@@ -1,0 +1,10 @@
+
+
+
+#nvim
+/nvim/plugin
+/nvim/data
+/nvim/lazy-lock.json
+
+#qutebrowser
+/qutebrowser
